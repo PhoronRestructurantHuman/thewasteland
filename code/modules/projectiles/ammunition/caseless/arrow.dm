@@ -37,13 +37,6 @@
 	projectile_type = /obj/item/projectile/bullet/reusable/arrow/burning
 	icon_state = "arrow_burning"
 
-/obj/item/ammo_casing/caseless/arrow/broadhead
-	name = "broadhead arrow"
-	desc = "A sharp metal arrow with a broad head. Likely to stick in a wound."
-	icon = 'icons/fallout/objects/guns/ammo.dmi'
-	icon_state = "arrow_broadhead"
-	projectile_type = /obj/item/projectile/bullet/reusable/arrow/broadhead
-
 /obj/item/ammo_casing/caseless/arrow/serrated
 	name = "serrated arrow"
 	icon = 'icons/fallout/objects/guns/ammo.dmi'
